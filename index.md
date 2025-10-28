@@ -5,7 +5,7 @@
 
 			window.addEventListener("onEmbeddedMessagingReady", () => {
 				embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields({
-					"PreChat_URL": "https://www.ems.com/test"
+					"PreChat_URL": "https://www.emsstore.com/test"
 				});
 			});
 
